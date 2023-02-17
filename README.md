@@ -11,6 +11,7 @@ yarn dev
 # or
 pnpm dev
 ```
+Open [https://login-page-five-omega.vercel.app/](https://login-page-five-omega.vercel.app/) with your browser to hosted web.
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
